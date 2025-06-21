@@ -1,4 +1,3 @@
-# gesture_media_player_with_volume
 # Hand Gesture Controlled Media Player 🎵
 
 Control your media player using simple hand gestures via webcam!
